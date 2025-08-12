@@ -10,12 +10,12 @@ using namespace std;
 
 int main(){
   cout <<"HELLO WORLD\n" ;
-  cout <<"HI!I AM PALAK SONI";
+  cout <<"HI!I AM Vaishnavi";
    
   return 0;
 }
 
 /*Output- 
   HELLO WORLD
-  HI!I AM PALAK SONI
+  HI!I AM Vaishnavi
   */
